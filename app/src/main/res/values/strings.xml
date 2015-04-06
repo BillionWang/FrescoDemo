@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FrescoDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="liudehua0">http://img3.cache.netease.com/photo/0003/2015-02-18/900x600_AIP1I12G608E0003.jpg</string>
+    <string name="liudehua1">http://a2.att.hudong.com/00/91/31300542476289142189914551058.jpg</string>
+    <string name="liudehua2">http://img5.cache.netease.com/photo/0003/2015-02-18/AIP1HH7F608E0003.jpg</string>
+    <string name="liudehua3">http://cpic7.edushi.com/cn/zixun/zh-chs/2015-03/25/1289667691.jpg</string>
+    <string name="liudehua4">http://dianying.cntv.cn/20101204/images/1291428803398_1291428803398_r.jpg</string>
+
+</resources>
